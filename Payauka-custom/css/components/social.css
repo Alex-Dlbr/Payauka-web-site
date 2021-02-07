@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kanit&display=swap");
+
+body{font-family: 'Roboto', sans-serif;
+	
+}
+h1, h2, h3{font-family: 'Kanit', sans-serif;}
+
+a{text-decoration:none;}
+
+.nav{background-color:#696969;
+	color: #ffffff;
+	list-style: none;
+	text-align: center;
+	padding: 20px 0 20px 0;
+	word-spacing:60px;
+	font-size: 25px;
+ }
+
+.nav li {display: inline-block;
+padding: 0 25px 0 25px;}
+
+.nav li a {
+	text-decoration: none;
+	color: #ffffff;}
+
+div {
+    text-align: justify;
+    align-items: center;
+    align-items: center;
+    text-decoration: none;
+    font-weight: normal;
+    font-size:30px;
+    text-align: center;
+    font-family: Time New Roman,serif;
+    text-align:justify-all;}
+
+.SN{
+padding: 20px;
+display: flex;
+align-items: center;
+text-align: center;
+align-content: center;
+justify-content: space-between;
+border-radius: 6px; 
+margin: 0 auto;
+flex-basis: 500px;
+flex-grow: 1;
+
+}
+
+.SNS{
+	display: flex;
+	flex-wrap: wrap;
+
+}
